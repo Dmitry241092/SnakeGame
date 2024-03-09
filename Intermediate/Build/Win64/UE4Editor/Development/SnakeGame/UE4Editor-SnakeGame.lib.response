@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SnakeGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"Z:\Unreal Engine 4\Project\SnakeGame\Intermediate\Build\Win64\SnakeGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"Z:\Unreal Engine 4\Project\SnakeGame\Intermediate\Build\Win64\UE4Editor\Development\SnakeGame\PlayerPawnBase.cpp.obj"
+"Z:\Unreal Engine 4\Project\SnakeGame\Intermediate\Build\Win64\UE4Editor\Development\SnakeGame\SnakeBase.cpp.obj"
+"Z:\Unreal Engine 4\Project\SnakeGame\Intermediate\Build\Win64\UE4Editor\Development\SnakeGame\SnakeElementBase.cpp.obj"
+"Z:\Unreal Engine 4\Project\SnakeGame\Intermediate\Build\Win64\UE4Editor\Development\SnakeGame\SnakeGame.cpp.obj"
+"Z:\Unreal Engine 4\Project\SnakeGame\Intermediate\Build\Win64\UE4Editor\Development\SnakeGame\SnakeGameGameModeBase.cpp.obj"
+"Z:\Unreal Engine 4\Project\SnakeGame\Intermediate\Build\Win64\UE4Editor\Development\SnakeGame\PlayerPawnBase.gen.cpp.obj"
+"Z:\Unreal Engine 4\Project\SnakeGame\Intermediate\Build\Win64\UE4Editor\Development\SnakeGame\SnakeBase.gen.cpp.obj"
+"Z:\Unreal Engine 4\Project\SnakeGame\Intermediate\Build\Win64\UE4Editor\Development\SnakeGame\SnakeElementBase.gen.cpp.obj"
+"Z:\Unreal Engine 4\Project\SnakeGame\Intermediate\Build\Win64\UE4Editor\Development\SnakeGame\SnakeGame.init.gen.cpp.obj"
+"Z:\Unreal Engine 4\Project\SnakeGame\Intermediate\Build\Win64\UE4Editor\Development\SnakeGame\SnakeGameGameModeBase.gen.cpp.obj"
+"Z:\Unreal Engine 4\Project\SnakeGame\Intermediate\Build\Win64\UE4Editor\Development\SnakeGame\Default.rc2.res"
+/OUT:"Z:\Unreal Engine 4\Project\SnakeGame\Intermediate\Build\Win64\UE4Editor\Development\SnakeGame\UE4Editor-SnakeGame.lib"

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SnakeGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{2ECE4BE9-6D8F-40BA-B632-9C05208D3F04}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SnakeGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SnakeGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{D2ADD311-238B-48E0-9886-04434C473637}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SnakeGame">
+      <UniqueIdentifier>{C5632A10-85BE-4334-B5A7-8B0E0661A1AE}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SnakeGame\PlayerPawnBase.cpp">
+      <Filter>Source\SnakeGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SnakeGame\PlayerPawnBase.h">
+      <Filter>Source\SnakeGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SnakeGame\SnakeBase.cpp">
+      <Filter>Source\SnakeGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SnakeGame\SnakeBase.h">
+      <Filter>Source\SnakeGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SnakeGame\SnakeElementBase.cpp">
+      <Filter>Source\SnakeGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SnakeGame\SnakeElementBase.h">
+      <Filter>Source\SnakeGame</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\SnakeGame\SnakeGame.Build.cs">
+      <Filter>Source\SnakeGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SnakeGame\SnakeGame.cpp">
+      <Filter>Source\SnakeGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SnakeGame\SnakeGame.h">
+      <Filter>Source\SnakeGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SnakeGame\SnakeGameGameModeBase.cpp">
+      <Filter>Source\SnakeGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SnakeGame\SnakeGameGameModeBase.h">
+      <Filter>Source\SnakeGame</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,9 @@
+Z:\Unreal Engine 4\Project\SnakeGame\Intermediate\Build\Win64\UE4Editor\Development\SnakeGame\Definitions.SnakeGame.h
+Z:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+Z:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+Z:\Unreal Engine 4\Project\SnakeGame\Source\SnakeGame/SnakeGameGameModeBase.h
+Z:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+Z:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+Z:\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+Z:\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+Z:\Unreal Engine 4\Project\SnakeGame\Intermediate\Build\Win64\UE4Editor\Inc\SnakeGame\SnakeGameGameModeBase.generated.h
