@@ -262,9 +262,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-"Z:\Unreal Engine 4\Project\SnakeGame\Source\SnakeGame\SnakeElementBase.cpp"
-/FI"Z:\Unreal Engine 4\Project\SnakeGame\Intermediate\Build\Win64\UE4Editor\Development\SnakeGame\Definitions.h"
-/Fo"Z:\Unreal Engine 4\Project\SnakeGame\Intermediate\Build\Win64\UE4Editor\Development\SnakeGame\SnakeElementBase.cpp.obj"
+/FI"Z:\Unreal Engine 4\Project\SnakeGame\Intermediate\Build\Win64\SnakeGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"Z:\Unreal Engine 4\Project\SnakeGame\Intermediate\Build\Win64\SnakeGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"Z:\Unreal Engine 4\Project\SnakeGame\Intermediate\Build\Win64\SnakeGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"Z:\Unreal Engine 4\Project\SnakeGame\Source\SnakeGame\Food.cpp"
+/FI"Z:\Unreal Engine 4\Project\SnakeGame\Intermediate\Build\Win64\UE4Editor\Development\SnakeGame\Definitions.SnakeGame.h"
+/Fo"Z:\Unreal Engine 4\Project\SnakeGame\Intermediate\Build\Win64\UE4Editor\Development\SnakeGame\Food.cpp.obj"
 /TP
 /GR-
 /W4

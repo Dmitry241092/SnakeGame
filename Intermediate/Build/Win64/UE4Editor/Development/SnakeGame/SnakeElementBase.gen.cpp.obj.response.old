@@ -256,15 +256,18 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-/I S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE
+/I S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-"Z:\Unreal Engine 4\Project\SnakeGame\Source\SnakeGame\SnakeElementBase.cpp"
-/FI"Z:\Unreal Engine 4\Project\SnakeGame\Intermediate\Build\Win64\UE4Editor\Development\SnakeGame\Definitions.h"
-/Fo"Z:\Unreal Engine 4\Project\SnakeGame\Intermediate\Build\Win64\UE4Editor\Development\SnakeGame\SnakeElementBase.cpp.obj"
+/FI"Z:\Unreal Engine 4\Project\SnakeGame\Intermediate\Build\Win64\SnakeGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"Z:\Unreal Engine 4\Project\SnakeGame\Intermediate\Build\Win64\SnakeGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"Z:\Unreal Engine 4\Project\SnakeGame\Intermediate\Build\Win64\SnakeGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"Z:\Unreal Engine 4\Project\SnakeGame\Intermediate\Build\Win64\UE4Editor\Inc\SnakeGame\SnakeElementBase.gen.cpp"
+/FI"Z:\Unreal Engine 4\Project\SnakeGame\Intermediate\Build\Win64\UE4Editor\Development\SnakeGame\Definitions.SnakeGame.h"
+/Fo"Z:\Unreal Engine 4\Project\SnakeGame\Intermediate\Build\Win64\UE4Editor\Development\SnakeGame\SnakeElementBase.gen.cpp.obj"
 /TP
 /GR-
 /W4

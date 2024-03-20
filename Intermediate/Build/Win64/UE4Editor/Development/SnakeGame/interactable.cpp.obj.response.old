@@ -262,9 +262,9 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-"Z:\Unreal Engine 4\Project\SnakeGame\Source\SnakeGame\SnakeElementBase.cpp"
+"Z:\Unreal Engine 4\Project\SnakeGame\Source\SnakeGame\interactable.cpp"
 /FI"Z:\Unreal Engine 4\Project\SnakeGame\Intermediate\Build\Win64\UE4Editor\Development\SnakeGame\Definitions.h"
-/Fo"Z:\Unreal Engine 4\Project\SnakeGame\Intermediate\Build\Win64\UE4Editor\Development\SnakeGame\SnakeElementBase.cpp.obj"
+/Fo"Z:\Unreal Engine 4\Project\SnakeGame\Intermediate\Build\Win64\UE4Editor\Development\SnakeGame\interactable.cpp.obj"
 /TP
 /GR-
 /W4

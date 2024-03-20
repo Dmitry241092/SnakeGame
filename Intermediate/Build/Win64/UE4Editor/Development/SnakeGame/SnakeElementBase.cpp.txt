@@ -10,8 +10,8 @@ Z:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/Gen
 Z:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatform.h
 Z:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformCodeAnalysis.h
 Z:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatform.h
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\sal.h
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\concurrencysal.h
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\sal.h
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\concurrencysal.h
 Z:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\MSVC/MSVCPlatform.h
 Z:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformCompilerSetup.h
 Z:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\ProfilingDebugging/UMemoryDefines.h
@@ -20,15 +20,15 @@ Z:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/CoreDefines.h
 Z:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\CoreFwd.h
 Z:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/ContainersFwd.h
 Z:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Traits/IsContiguousContainer.h
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\initializer_list
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\yvals_core.h
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\vcruntime.h
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\vadefs.h
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\xkeycheck.h
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\cstddef
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\initializer_list
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\yvals_core.h
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\vcruntime.h
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\vadefs.h
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\xkeycheck.h
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\cstddef
 C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stddef.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt.h
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\xtr1common
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\xtr1common
 Z:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/UObjectHierarchyFwd.h
 Z:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/VarArgs.h
 Z:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Logging/LogVerbosity.h
@@ -38,33 +38,33 @@ Z:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates\IsEnum.h
 Z:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/AndOrNot.h
 Z:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsArrayOrRefOfType.h
 Z:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformCrt.h
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\new
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\exception
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\yvals.h
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\new
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\exception
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\yvals.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\crtdbg.h
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\vcruntime_new_debug.h
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\vcruntime_new.h
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\crtdefs.h
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\use_ansi.h
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\cstdlib
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\vcruntime_new_debug.h
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\vcruntime_new.h
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\crtdefs.h
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\use_ansi.h
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\cstdlib
 C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\math.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_math.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stdlib.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_malloc.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_search.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstdlib.h
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\limits.h
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\type_traits
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\cstdint
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\stdint.h
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\limits.h
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\type_traits
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\cstdint
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\stdint.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\malloc.h
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\vcruntime_exception.h
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\eh.h
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\vcruntime_exception.h
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\eh.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_terminate.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\wchar.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_memcpy_s.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\errno.h
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\vcruntime_string.h
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\vcruntime_string.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wconio.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_stdio_config.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wctype.h
@@ -78,7 +78,7 @@ C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wtime.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\sys/stat.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\sys/types.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stdio.h
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\stdarg.h
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\stdarg.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\math.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\float.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\string.h
@@ -93,20 +93,20 @@ Z:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/Gen
 Z:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformMemory.h
 Z:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsSystemIncludes.h
 Z:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/MinimalWindowsApi.h
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\intrin.h
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\intrin0.inl.h
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\setjmp.h
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\immintrin.h
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\wmmintrin.h
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\nmmintrin.h
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\smmintrin.h
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\tmmintrin.h
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\pmmintrin.h
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\emmintrin.h
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\xmmintrin.h
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\mmintrin.h
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\zmmintrin.h
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\ammintrin.h
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\intrin.h
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\intrin0.inl.h
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\setjmp.h
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\immintrin.h
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\wmmintrin.h
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\nmmintrin.h
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\smmintrin.h
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\tmmintrin.h
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\pmmintrin.h
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\emmintrin.h
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\xmmintrin.h
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\mmintrin.h
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\zmmintrin.h
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\ammintrin.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\tchar.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\intsafe.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\winapifamily.h
@@ -253,9 +253,9 @@ Z:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/Reverse.h
 Z:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/Map.h
 Z:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/Tuple.h
 Z:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Delegates/IntegerSequence.h
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\tuple
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\__msvc_iter_core.hpp
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\utility
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\tuple
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\__msvc_iter_core.hpp
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\utility
 Z:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/ColorList.h
 Z:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/IntPoint.h
 Z:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/IntVector.h
@@ -419,8 +419,8 @@ Z:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/Buffe
 Z:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\String/BytesToHex.h
 Z:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\String/HexToBytes.h
 Z:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/RefCounting.h
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\typeinfo
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\vcruntime_typeinfo.h
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\typeinfo
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\vcruntime_typeinfo.h
 Z:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/Greater.h
 Z:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreNetTypes.h
 Z:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/LazyObjectPtr.h
@@ -568,14 +568,14 @@ Z:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/Timecode.h
 Z:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfiler.h
 Z:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/Queue.h
 Z:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfilerTrace.h
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\atomic
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\cstring
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\xatomic.h
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\intrin0.h
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\xthreads.h
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\climits
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\xtimec.h
-S:\GameDevStart\C++\VC\Tools\MSVC\14.38.33130\INCLUDE\ctime
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\atomic
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\cstring
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\xatomic.h
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\intrin0.h
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\xthreads.h
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\climits
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\xtimec.h
+S:\GameDevStart\C++\VC\Tools\MSVC\14.39.33519\INCLUDE\ctime
 C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\time.h
 Z:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\RHI\Public\RHICommandList.inl
 Z:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\RenderCore\Public\RenderCore.h
